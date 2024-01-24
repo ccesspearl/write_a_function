@@ -19,6 +19,8 @@
 # Pseudocode 
 
 # Create an function named exponent (base,exp)
+def exponent(base,exp):
+
 # Inside the function, create a variable named result and set it to 1 
 # Inside the function, create a loop that will multiply the result to the base
 # Return the result 
