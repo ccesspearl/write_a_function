@@ -38,4 +38,6 @@ user_base = int(input("Input base here: "))
 user_exponent = int(input("Input exponent here: "))
 
 # Create a variable to place the inputted values in the function
+result = exponent(user_base,user_exponent)
+
 # Print the result 
