@@ -29,6 +29,8 @@ def exponent(base,exp):
         result = result * base         
 
 # Return the result 
+    return result 
+
 # Create a variable to let the user input the base number
 # Create a variable to let the user input the exponent number 
 # Create a variable to place the inputted values in the function
