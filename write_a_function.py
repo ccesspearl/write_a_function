@@ -41,3 +41,4 @@ user_exponent = int(input("Input exponent here: "))
 result = exponent(user_base,user_exponent)
 
 # Print the result 
+print(user_base, "raises to the power of", user_exponent, "is:", result)
