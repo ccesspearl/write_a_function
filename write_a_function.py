@@ -25,6 +25,9 @@ def exponent(base,exp):
     result = 1 
 
 # Inside the function, create a loop that will multiply the result to the base
+    for i in range(exp):
+        result = result * base         
+
 # Return the result 
 # Create a variable to let the user input the base number
 # Create a variable to let the user input the exponent number 
