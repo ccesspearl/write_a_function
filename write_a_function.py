@@ -35,5 +35,7 @@ def exponent(base,exp):
 user_base = int(input("Input base here: "))
 
 # Create a variable to let the user input the exponent number 
+user_exponent = int(input("Input exponent here: "))
+
 # Create a variable to place the inputted values in the function
 # Print the result 
